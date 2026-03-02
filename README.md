@@ -2,7 +2,7 @@
 
 # Hey, I'm Aarush Kakade 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=AI+%2F+Game+Builder+from+Thane;Open+to+Collab+%26+Startup+Prep;Building+things+that+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=AI+%2F+Game+Builder;Open+to+Collab+%26+Startup+Prep;Building+things+that+matter)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://kakadeaarush1-svg.github.io/portfolio-website)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarush-kakade)
@@ -17,7 +17,6 @@
 
 ```yaml
 name: Aarush Kakade
-location: Thane, Maharashtra, India
 currently: Class 12 student | JEE prep + building side projects
 interests:
   - Artificial Intelligence & ML
@@ -62,18 +61,12 @@ open_to: Collaborations, internships, startup ideas
 
 ## GitHub Stats
 
-<div align="center">
-
 ![Aarush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kakadeaarush1-svg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakadeaarush1-svg&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
 ## Currently
-
 - Prepping hard for **JEE 2026**
 - Building my [portfolio](https://kakadeaarush1-svg.github.io/portfolio-website) in public
 - Exploring AI integrations + game mechanics
@@ -81,10 +74,6 @@ open_to: Collaborations, internships, startup ideas
 
 ---
 
-<div align="center">
-
 *"Build things that matter — ship early, iterate fast."*
 
 ![Profile views](https://komarev.com/ghpvc/?username=kakadeaarush1-svg&color=6366f1&style=flat-square)
-
-</div>
